@@ -13,7 +13,7 @@ Pretty much everything that's working with tluck's config, with the addition of 
 - Physical mouse buttons
 
 ## Testing
-The config uploaded here was tested on a ThinkPad x270 with an i5-6200U CPU, Intel HD Graphics 520 GPU, 8GB RAM, 256GB NVMe Drive and a FHD Screen. The Intel WiFi card was replaced with a DW1820a. If your config is different than mine, you may need to recompile the ACPI patches.
+The config uploaded here was tested on a ThinkPad x270 with an i5-6200U CPU, Intel HD Graphics 520 GPU, 8GB RAM, 256GB NVMe Drive and a FHD Screen. 
 
 ## Credit
 Thanks to nicogig and tluck for laying the groundwork for a working hackintosh on the x270 with i5 6200U CPU. I'd also like to thank RehabMan, Shmilee, vusun123, TimeWalker, Mieze and every other hacker who makes Hackintoshing possible.
