@@ -1,5 +1,5 @@
 # x270s-Clover
-Clover Bootloader, Kexts, config and ACPI patches for ThinkPad T460s.
+Clover Bootloader, Kexts, config and ACPI patches for ThinkPad x270.
 Based on nicogig's repo: https://github.com/nicogig/T460s-Clover
 
 ## What's different from tluck's Clover config
