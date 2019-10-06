@@ -1,6 +1,6 @@
-# T460s-Clover
+# x270s-Clover
 Clover Bootloader, Kexts, config and ACPI patches for ThinkPad T460s.
-Based on tluck's repo: https://github.com/tluck/Lenovo-T460-Clover
+Based on nicogig's repo: https://github.com/nicogig/T460s-Clover
 
 ## What's different from tluck's Clover config
 - The touchpad driver was changed to acidanthera's VodooPS2 (https://github.com/acidanthera/VoodooPS2). This driver enables multitouch gestures on the Synaptic touchpad (but top buttons do not work)
