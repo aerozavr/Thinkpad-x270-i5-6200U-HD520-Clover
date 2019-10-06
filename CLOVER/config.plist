@@ -211,6 +211,7 @@
 	<dict>
 		<key>Arguments</key>
 		<string>kext-dev-mode=1</string>
+		<string>alcid=29</string>
 		<key>DefaultVolume</key>
 		<string>LastBootedVolume</string>
 		<key>IgnoreNVRAMBoot</key>
