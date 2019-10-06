@@ -3,7 +3,7 @@ Clover Bootloader, Kexts, config and ACPI patches for ThinkPad x270.
 Based on nicogig's repo: https://github.com/nicogig/T460s-Clover which is based in https://github.com/tluck/Lenovo-T460-Clover repo from tluck.
 
 ## What's different from nicogig's Clover config
-- Audio device id
+- Audio device id different.
 
 ## What's working
 Pretty much everything that's working with tluck's config, with the addition of multitouch, Force Touch (emulated) and the LTE Modem.
