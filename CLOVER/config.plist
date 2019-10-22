@@ -224,7 +224,7 @@
 		<key>Secure</key>
 		<false/>
 		<key>Timeout</key>
-		<integer>3</integer>
+		<integer>1</integer>
 	</dict>
 	<key>CPU</key>
 	<dict>
@@ -338,12 +338,17 @@
 			<true/>
 		</dict>
 		<key>ScreenResolution</key>
-		<string>1920x1080</string>
+		<string>1280x1024</string>
 		<key>Theme</key>
 		<string>Minimalism</string>
 	</dict>
 	<key>Graphics</key>
 	<dict>
+		<key>EDID</key>
+		<dict>
+			<key>Inject</key>
+			<false/>
+		</dict>
 		<key>Inject</key>
 		<dict>
 			<key>Intel</key>
