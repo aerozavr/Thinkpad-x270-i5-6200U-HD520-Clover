@@ -210,7 +210,6 @@
 	<key>Boot</key>
 	<dict>
 		<key>Arguments</key>
-		<string>kext-dev-mode=1</string>
 		<string>alcid=29</string>
 		<key>DefaultVolume</key>
 		<string>LastBootedVolume</string>
@@ -225,7 +224,7 @@
 		<key>Secure</key>
 		<false/>
 		<key>Timeout</key>
-		<integer>3</integer>
+		<integer>1</integer>
 	</dict>
 	<key>CPU</key>
 	<dict>
@@ -239,7 +238,7 @@
 		<key>Audio</key>
 		<dict>
 			<key>Inject</key>
-			<integer>28</integer>
+			<integer>29</integer>
 		</dict>
 		<key>Properties</key>
 		<dict>
@@ -339,12 +338,17 @@
 			<true/>
 		</dict>
 		<key>ScreenResolution</key>
-		<string>1920x1080</string>
+		<string>1280x1024</string>
 		<key>Theme</key>
 		<string>Minimalism</string>
 	</dict>
 	<key>Graphics</key>
 	<dict>
+		<key>EDID</key>
+		<dict>
+			<key>Inject</key>
+			<false/>
+		</dict>
 		<key>Inject</key>
 		<dict>
 			<key>Intel</key>
@@ -675,6 +679,8 @@
 		<string>Apple Inc.</string>
 		<key>BiosVersion</key>
 		<string>MBP133.88Z.F000.B00.1905251314</string>
+		<key>Board-ID</key>
+		<string>Mac-27ADBB7B4CEE8E61</string>
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>BoardType</key>
